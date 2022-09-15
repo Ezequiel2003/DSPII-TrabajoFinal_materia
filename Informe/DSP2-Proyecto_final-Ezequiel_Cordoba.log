@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.18)  15 SEP 2022 09:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.18)  15 SEP 2022 19:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1182,7 +1182,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 970--971
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 982--983
+Underfull \hbox (badness 10000) in paragraph at lines 984--985
 [][][]\OT1/cmr/m/n/10.95 https://www.rc-flash.com.ar/MLA-623310634-bateria-liti
 o-polimero-lipo-111v-2250mah-35c-
  []
@@ -1230,10 +1230,10 @@ ers/EZE/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><
 C:/Users/EZE/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy1
 0.pfb><C:/Users/EZE/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
 m/cmtt10.pfb>
-Output written on DSP2-Proyecto_final-Ezequiel_Cordoba.pdf (25 pages, 13109100 
+Output written on DSP2-Proyecto_final-Ezequiel_Cordoba.pdf (25 pages, 13109378 
 bytes).
 PDF statistics:
- 811 PDF objects out of 1000 (max. 8388607)
+ 812 PDF objects out of 1000 (max. 8388607)
  401 named destinations out of 1000 (max. 500000)
  364 words of extra memory for PDF output out of 10000 (max. 10000000)
 
